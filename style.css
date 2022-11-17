@@ -1,0 +1,47 @@
+body{
+    background-color: #fbfdff;
+    font-family: 'Calibri';
+    text-align: center;
+}
+.form-container{
+    margin: 100px auto;
+    width: fit-content;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 1px 5px 10px rgba(0, 0, 100, 0.1);
+    border-radius: 5px;
+}
+
+
+#text1{
+    font-size: 1.4em;
+    color: #24293b;
+    font-weight: bold;
+}
+
+#text2{
+    font-size: 0.9em;
+    color: #24293b;
+}
+
+
+#submit-button{
+    background-color: rgb(3, 3, 34);
+    border-radius: 20px;
+    border: unset;
+    padding: 10px;
+    color: #fff;
+    width: 250px;
+    font-weight: bold;
+}
+
+#text{
+    border: 0.5px solid rgba(0,0,0,0.5);
+    border-radius: 5px;
+    padding: 10px 20px;
+    width: 200px;
+}
